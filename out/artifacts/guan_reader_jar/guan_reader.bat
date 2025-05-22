@@ -1,0 +1,1 @@
+java -jar guan_reader.jar
